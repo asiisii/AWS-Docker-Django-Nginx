@@ -1,1 +1,1 @@
-# workshop2
+# AWS-Docker-Django-Nginx
